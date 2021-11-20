@@ -1,0 +1,5 @@
+python 1uzdevums.py
+python 2uzdevums.py
+python 3uzdevums.py
+python 4uzdevums.py
+python 5uzdevums.py
